@@ -1,0 +1,10 @@
+0001,Cactus,Verano,Facil,150,1500
+0002,Tulipan,Verano,Facil,260,600
+0003,Lavanda,Otono,Medio,50,5500
+0004,buganvillas,Toda epoca,Dificil,25,6000
+0005,Campanilla dalmata,Primavera,Facil,60,4000
+0006,Cyclamen,Primavera,Media,45,7000
+0007,Anturio Rosado,Interior,Facil,68,10000
+0008,Neanthe Bella,Interior,Dificil,36,8000
+0009,Ruscus Blanco,Toda temporada,Facil,84,9000
+0010,Cola de zorro,Otono,Medio,240,13000

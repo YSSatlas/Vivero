@@ -1,0 +1,2 @@
+p001,Café,Americano,chico,50,1800
+p002,Café,Americano,grande,99,1900
